@@ -67,10 +67,10 @@ Para ver os detalhes dos projetos [clique aqui](/pesquisas/README.md)
 
 ## Currículos e redes acadêmicas
 
-- [Lattes](http://lattes.cnpq.br/6853705640900524)
+- [Lattes](http://lattes.cnpq.br/6853705640900524){:target="_blank"}
 
-- [Orcid](https://orcid.org/0000-0001-5067-8475)
+- [Orcid](https://orcid.org/0000-0001-5067-8475){:target="_blank"}
 
-- [ResearchGate](https://www.researchgate.net/profile/Eric_Brasil)
+- [ResearchGate](https://www.researchgate.net/profile/Eric_Brasil){:target="_blank"}
 
-- [Academia.edu](https://unilab.academia.edu/EricBrasil)
+- [Academia.edu](https://unilab.academia.edu/EricBrasil){:target="_blank"}
