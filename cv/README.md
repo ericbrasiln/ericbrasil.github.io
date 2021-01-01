@@ -13,15 +13,17 @@ Autor do livro **A Corte em Festa**: experiências negras em carnavais do Rio de
 
 Doutor (2016) e Mestre (2011) pelo Programa de Pós­-Graduação em História Social da Universidade Federal Fluminense.
 
-Vencedor do primeiro segundo lugares no Concurso de Monografias Silvio Romero de 2011 e 2020 respectivamente, promovido pelo Centro Nacional de Folclore e Cultura Popular.
+Vencedor do primeiro e segundo lugares no Concurso de Monografias Silvio Romero de 2011 e 2020 respectivamente, promovido pelo Centro Nacional de Folclore e Cultura Popular.
 
-Pesquisador do [Laboratório de Humanidades Digitais da UFBA](http://labhd.ufba.br/).
+Pesquisador senior do [Laboratório de Humanidades Digitais da UFBA](http://labhd.ufba.br/).
 
-Membro do GT Nacional Emancipações e Pós-­Abolição da Anpuh.
+Membro fundador do GT Nacional Emancipações e Pós-­Abolição da Anpuh.
 
 Tem experiência na área de História Social da Cultura, Humanidades e História Digital, Abolição da escravidão e o Pós-Abolição no Brasil e no Caribe, atuando principalmente nos seguintes temas: Carnaval, Cidadania, História Transnacional, Diáspora Africana, Pós­-Abolição, História das Afro-Américas.
 
 Foi professor de ensino fundamental, médio e pré­-vestibular no Rio de Janeiro entre 2007 e 2017. 
+
+{:.toc}
 
 ## Formação acadêmica/titulação
 
@@ -34,7 +36,7 @@ Foi professor de ensino fundamental, médio e pré­-vestibular no Rio de Janeir
 
 ## Projetos de Pesquisa
 
-Para ver os detalhes dos projetos [clique aqui](/pesquisas/README.md)
+Para ver os detalhes dos projetos [clique aqui](/pesquisas/README.md){:target="_blank"} - *em breve*
 {:.note}
 
 ### Projetos de Pesquisa em andamento
@@ -63,7 +65,7 @@ Para ver os detalhes dos projetos [clique aqui](/pesquisas/README.md)
 
 - 2011 - 1º Lugar - Prêmio Sílvio Romero de Monografias sobre Folclore e Cultura Popular, Centro Nacional de Folclore e Cultura Popular (CNFCP/Iphan).
 
-## [Principais Publicações](/cv/publicacoes.md)
+## [Principais Publicações](/cv/publicacoes.md){:target="_blank"} - *em breve*
 
 ## Currículos e redes acadêmicas
 
