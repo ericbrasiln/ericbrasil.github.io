@@ -10,20 +10,20 @@
 
 # Free version
 # ---------------------------------------------------------------------------------------
-home:                  Home
-pages:                 Pages
+home:                  Inicial
+pages:                 Páginas
 posts:                 Posts
-about:                 About
-related_posts:         Related Posts
-other_projects:        Other Projects
-comments:              Comments
+about:                 Sobre mim
+related_posts:         Posts relacionados
+other_projects:        Outros Projetos
+comments:              Comentários
 jump_to:               Jump to
 navigation:            Navigation
 social:                Social
 links:                 Links
-pagination:            Pagination
-newer:                 Newer
-older:                 Older
+pagination:            Paginação
+newer:                 Recente
+older:                 Antigo
 forward:               Forward
 back:                  Back
 permalink:             Permalink
@@ -31,16 +31,16 @@ permalink_icon:        content-hash
 templates:             Templates (for web app)
 present:               present
 toc:                   Table of Contents
-note:                  Note
-description:           Description
-search:                Search
+note:                  Atenção
+description:           Descrição
+search:                Busca
 search_placeholder:    Type something…
 
-loading:               Loading…
-redirecting:           Redirecting…
+loading:               Carregando…
+redirecting:           Redirecionando…
 
 continue_reading:      >
-  Continue reading <!--post_title-->
+  Continue lendo <!--post_title-->
 
 cookies_banner:
   text:                >

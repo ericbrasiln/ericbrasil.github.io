@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+url:                   https://ericbrasiln.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -17,7 +17,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  pt-br
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Eric Brasil
@@ -25,10 +25,10 @@ title:                 Eric Brasil
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Site pessoal.
+  Site pessoal do professor Eric Brasil (UNILAB)
 
 # A shorter description for the sidebar.
-tagline:               Professor da Unilab, Campus dos Malês, Bahia
+tagline:               Professor at UNILAB, Brazil
 
 # A list of keywords for your blog
 keywords:              []
@@ -36,24 +36,28 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/perfil01.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                Eric Brasil
-  email:               ericbrasiln@protonmail.com
+  email:               ericbrasil@protonmail.com
   # # Used by `jekyll-seo-tag`:
   twitter:             ericbrasiln
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+  - title:             Currículo
+    url:               /cv/
+  - title:             Pesquisa e Projetos
+    url:               /pesquisas/
+  - title:             Aulas
+    url:               /aulas/
+  - title:             Apresentações
+    url:               /apresentacoes/
+  - title:             Contatos
+    url:               /contatos/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -66,7 +70,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. All rights reserved.
+copyright:             © 2020. Todos os direitos reservados.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -104,8 +108,8 @@ remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          none
-accent_color:          rgb(79,177,186)
+accent_image:          /assets/img/bg-eb.png
+accent_color:          rgb(79,177,186) 
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
@@ -135,7 +139,7 @@ defaults:
     values:
       accent_color:    rgb(38,139,210)
       accent_image:
-        background:    rgb(20,20,20)
+        background:    rgb(20, 20, 20)
         overlay:       false
 
   # Don't include documents in assets in the sitemap
@@ -325,6 +329,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-avatar
 
 
 # SEO Tag
@@ -350,7 +355,7 @@ twitter:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
+social:
   name:                Eric Brasil
   links:
     - https://twitter.com/ericbrasiln
