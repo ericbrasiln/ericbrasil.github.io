@@ -17,8 +17,9 @@ sitemap: false
 <iframe width="560" height="315" src="https://youtu.be/kW26mFyH6v" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="sixteen-nine">
-  <iframe src="https://youtu.be/kW26mFyH6v" style="width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/234066823" style="width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
+<p><a href="https://vimeo.com/234066823">01_welcome_BGGN213</a> from <a href="https://vimeo.com/grantlab">Barry Grant</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Emancipações, pós-abolição e racismo no Brasil. Mesa do projeto "Trocando em miúdos", UEMG, 09-10-2020
 
