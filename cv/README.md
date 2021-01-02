@@ -7,6 +7,13 @@ hide_description: true
 sitemap: false
 ---
 
+0. Índice
+{:toc}
+
+***
+
+## Resumo
+
 Professor e coordenador (2019-2020) do curso de licenciatura em História e professor do Bacharelado Interdisciplinar em Humanidades da UNILAB (Universidade da Integração Internacional da Lusofonia Afro-brasileira), campus dos Malês, BA. 
 
 Autor do livro **A Corte em Festa**: experiências negras em carnavais do Rio de Janeiro (1879-1888) (Editora Prismas, 2016).
@@ -22,9 +29,6 @@ Membro fundador do GT Nacional Emancipações e Pós-­Abolição da Anpuh.
 Tem experiência na área de História Social da Cultura, Humanidades e História Digital, Abolição da escravidão e o Pós-Abolição no Brasil e no Caribe, atuando principalmente nos seguintes temas: Carnaval, Cidadania, História Transnacional, Diáspora Africana, Pós­-Abolição, História das Afro-Américas.
 
 Foi professor de ensino fundamental, médio e pré­-vestibular no Rio de Janeiro entre 2007 e 2017. 
-
-0. Índice
-{:toc}
 
 ## Formação acadêmica/titulação
 
