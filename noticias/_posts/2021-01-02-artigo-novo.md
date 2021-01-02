@@ -2,18 +2,16 @@
 layout: post
 title: Artigo novo publicado! "Cordões e Canboulay Bands"
 image: 
-  path: /assets/img/blog/ccb.png
-  # srcset:
-  #   265w:  /assets/img/blog/ericbrasil.jpg@0,25x.jpg
+  path: /assets/img/blog/Captura de tela de 2021-01-02 16-57-55.png
 sitemap: false
 ---
 
 Novo artigo publicado!
 {:.lead}
 
-Eric Brasil, **Cordões e Canboulay Bands: Performances negras no Pós Abolição (Rio de Janeiro e Port-of-Spain)** na revista Estudos Ibero-Americanos da PUC-RS, vol. 46, n. 3 (2020).
+Eric Brasil, **Cordões e Canboulay Bands: Performances negras no Pós Abolição (Rio de Janeiro e Port-of-Spain)** na revista *Estudos Ibero-Americanos* da PUC-RS, vol. 46, n. 3 (2020). DOI: 10.15448/1980-864X.2020.3.33507
 
-[DOI]( https://doi.org/10.15448/1980-864X.2020.3.33507){:target:"_blank"}
+[Acesso o link aqui!](https://doi.org/10.15448/1980-864X.2020.3.33507){:target:"_blank"}
 
 **Palavras-chave**: Carnaval, Performances Negra, Pós-Abolição, Rio de Janeiro, Port-of-Spain
 
