@@ -7,7 +7,10 @@ hide_description: true
 sitemap: false
 ---
 
-# Material de apresentações, palestras e mesas
+0. Índice
+{:toc}
+
+# Materiais de apresentações, palestras e mesas
 
 - [Dá pra pesquisar o Caribe do Brasil? Reflexões teórico-metodológicas](https://ericbrasiln.github.io/caribe/){:target="_blank"}. Material para a mesa promovida pelo [Canal da América](https://youtu.be/hMX8ITv40K8) - 2020-11-30, 17h.
   
@@ -17,7 +20,7 @@ sitemap: false
 
 - [Carnaval, Política e Liberdade: Experiências Negras e a Abolição da Escravidão no Rio de Janeiro (1879-1888)](https://ericbrasiln.github.io/Aula_Eric-Brasil_Construtores-da-liberdade/MESA_UEMG/){:target="_blank"}. Material e apresentação da aula no curso Construtores da Liberdade: comunidades, lutas e identidades negras no Brasil do século XIX, 19-08-2020.
 
-# Minicurso
+# Minicursos
 
 - [Levantamento Bibliográfico e gerenciamento de referências em meio digital](https://ericbrasiln.github.io/curso_biblio/){:target="_blank"}
 

@@ -16,6 +16,10 @@ sitemap: false
 
 <iframe width="560" height="315" src="https://youtu.be/kW26mFyH6v" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<div class="sixteen-nine">
+  <iframe src="https://youtu.be/kW26mFyH6v" style="width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
+
 ## Emancipações, pós-abolição e racismo no Brasil. Mesa do projeto "Trocando em miúdos", UEMG, 09-10-2020
 
 <iframe width="560" height="315" src="https://youtu.be/NXuFrYz24IU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
