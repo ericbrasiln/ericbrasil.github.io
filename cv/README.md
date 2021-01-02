@@ -23,7 +23,8 @@ Tem experiência na área de História Social da Cultura, Humanidades e Históri
 
 Foi professor de ensino fundamental, médio e pré­-vestibular no Rio de Janeiro entre 2007 e 2017. 
 
-{:.toc}
+0. Índice
+{:toc}
 
 ## Formação acadêmica/titulação
 
@@ -33,6 +34,13 @@ Foi professor de ensino fundamental, médio e pré­-vestibular no Rio de Janeir
 - Mestrado em História (2009-2011)
     - Título: **Carnavais da Abolição**: Diabos e Cucumbis no Rio de Janeiro (1879-1888)
 
+## Atuação profissional
+
+<a  href="http://unilab.edu.br"><img src ="../assets/img/Logo-Unilab-horizontal-para-fundo-claro.png" title="Unilab" width="300"></a>
+
+### 2017- atual: **Universidade da Integração Internacional da Lusofonia Afro-brasileira (UNILAB)**
+
+<a  href="http://historia.males.unilab.edu.br/"><img src ="../assets/img/LOGO-HISTÓRIA-BA-novo.png" title="História, IHL-Unilab" style="float:left" width="80" height="80"></a><p>Coordenador (2019-2020) e professor do curso de licenciatura em História e professor do Bacharelado Interdisciplinar em Humanidades da UNILAB (Universidade da Integração Internacional da Lusofonia Afro-brasileira), campus dos Malês, BA.</p>
 
 ## Projetos de Pesquisa
 
@@ -69,10 +77,5 @@ Para ver os detalhes dos projetos [clique aqui](/pesquisas/README.md){:target="_
 
 ## Currículos e redes acadêmicas
 
-- [Lattes](http://lattes.cnpq.br/6853705640900524){:target="_blank"}
+<a  href="http://lattes.cnpq.br/6853705640900524"><img src ="../assets/img/lattes.png" title="Lattes" width="20" height="20"></a>       <a  href="https://orcid.org/0000-0001-5067-8475"><img src ="../assets/img/orcid.png" title="Orcid" width="20" height="20"></a>    <a  href="https://www.researchgate.net/profile/Eric_Brasil"><img src ="../assets/img/research-gate.png" title="ResearchGate" width="20" height="20"></a>      <a  href="https://unilab.academia.edu/EricBrasil"><img src ="../assets/img/academia-edu.png" title="Academia.edu" width="20" height="20"></a>
 
-- [Orcid](https://orcid.org/0000-0001-5067-8475){:target="_blank"}
-
-- [ResearchGate](https://www.researchgate.net/profile/Eric_Brasil){:target="_blank"}
-
-- [Academia.edu](https://unilab.academia.edu/EricBrasil){:target="_blank"}
