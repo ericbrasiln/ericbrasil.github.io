@@ -1,3 +1,4 @@
+---
 layout: page
 title: Mesas
 description: >
@@ -14,7 +15,9 @@ sitemap: false
 
 ## Inteligência artificial e humanidades, 6º Simpósio Integrado UNIFAL-MG, 08/10/2020.
 
-<iframe width="560" height="315" src="https://youtu.be/kW26mFyH6v" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div>
+  <iframe width="560" height="315" src="https://youtu.be/kW26mFyH6v" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <div class="sixteen-nine">
   <iframe src="https://player.vimeo.com/video/234066823" style="width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
