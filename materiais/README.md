@@ -7,6 +7,6 @@ hide_description: true
 sitemap: false
 ---
 
-## [Materiais de Apresentações, oficinas, minicursos, tutoriais](/materiais/presentations.md)
+## [Materiais de Apresentações, oficinas, minicursos, tutoriais](/materiais/presentations)
 
-## [Ferramentas digitais](/materiais/ferramentas.md) - *em breve*
+## [Ferramentas digitais](/materiais/ferramentas) - *em breve*
