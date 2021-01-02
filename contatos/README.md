@@ -10,6 +10,6 @@ sitemap: false
 ## E-mails: 
 
 - ericbrasiln@protonmail.com
-- proferisbrasil@uniab.edu.br
+- profericbrasil@unilab.edu.br
 
 ## [Linktree](https://linktr.ee/ericbrasil){:target="_blank"}
