@@ -56,10 +56,8 @@ menu:
     url:               /aulas/
   - title:             Mesas
     url:               /mesas/
-  - title:             Materiais
-    url:               /apresentacoes/
-  - title:             Ferramentas digitais
-    url:               /ferramentas/
+  - title:             Materiais e ferramentas
+    url:               /materiais/
   - title:             Contatos
     url:               /contatos/
 
