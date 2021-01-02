@@ -54,8 +54,12 @@ menu:
     url:               /pesquisas/
   - title:             Aulas
     url:               /aulas/
-  - title:             Apresentações
+  - title:             Mesas
+    url:               /mesas/
+  - title:             Materiais
     url:               /apresentacoes/
+  - title:             Ferramentas digitais
+    url:               /ferramentas/
   - title:             Contatos
     url:               /contatos/
 
