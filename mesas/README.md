@@ -11,18 +11,13 @@ sitemap: false
 
 ## Quem tem medo dos métodos digitais de pesquisa?. Congresso Virtual UFBA 2020.
 
-<iframe width="560" height="315" src="https://youtu.be/x-SGWbuYTZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="ytplayer" width="560" height="315" src="https://youtu.be/x-SGWbuYTZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Inteligência artificial e humanidades, 6º Simpósio Integrado UNIFAL-MG, 08/10/2020.
 
-<div>
+<div class="sixteen-nine">
   <iframe width="560" height="315" src="https://youtu.be/kW26mFyH6v" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<div class="sixteen-nine">
-  <iframe src="https://player.vimeo.com/video/234066823" style="width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
-<p><a href="https://vimeo.com/234066823">01_welcome_BGGN213</a> from <a href="https://vimeo.com/grantlab">Barry Grant</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Emancipações, pós-abolição e racismo no Brasil. Mesa do projeto "Trocando em miúdos", UEMG, 09-10-2020
 
