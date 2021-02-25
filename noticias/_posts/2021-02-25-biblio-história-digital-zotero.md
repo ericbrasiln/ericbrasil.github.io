@@ -3,7 +3,7 @@ layout: post
 title: Lançamento! HISTÓRIA DIGITAL - Biblioteca de referências bibliográficas no Zotero
 
 image: 
-  path: /assets/img/blog/historia.gif
+  path: /assets/img/blog/historia_zot.png
 sitemap: false
 ---
 
