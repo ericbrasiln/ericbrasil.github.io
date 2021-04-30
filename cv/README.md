@@ -48,7 +48,7 @@ Coordenador (2019-2020) e professor do curso de licenciatura em História e prof
 
 ## Projetos de Pesquisa
 
-Para ver os detalhes dos projetos [clique aqui](pesquisas/)
+Para ver os detalhes dos projetos [clique aqui](/pesquisas/)
 {:.note}
 
 ### Projetos de Pesquisa em andamento

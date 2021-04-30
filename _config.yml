@@ -72,7 +72,7 @@ legal:
     url:               /NOTICE/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020. Todos os direitos reservados.
+copyright:            Produzido por Eric Brasil © 2020. Licença MIT.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -110,8 +110,8 @@ remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/bg-eb.png
-accent_color:          rgb(79,177,186) 
+accent_image:          false #/assets/img/bg-eb.png
+accent_color:          rgb(17, 81, 85) 
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
