@@ -22,7 +22,7 @@ Doutor (2016) e Mestre (2011) pelo Programa de Pós­-Graduação em História S
 
 Vencedor do primeiro e segundo lugares no Concurso de Monografias Silvio Romero de 2011 e 2020 respectivamente, promovido pelo Centro Nacional de Folclore e Cultura Popular.
 
-Pesquisador senior do [Laboratório de Humanidades Digitais da UFBA](http://labhd.ufba.br/).
+Pesquisador senior do [Laboratório de Humanidades Digitais da UFBA](http://labhd.ufba.br/){:target="_blank"}.
 
 Membro fundador do GT Nacional Emancipações e Pós-­Abolição da Anpuh.
 
@@ -48,7 +48,7 @@ Coordenador (2019-2020) e professor do curso de licenciatura em História e prof
 
 ## Projetos de Pesquisa
 
-Para ver os detalhes dos projetos [clique aqui](/pesquisas/README.md){:target="_blank"}
+Para ver os detalhes dos projetos [clique aqui](pesquisas/)
 {:.note}
 
 ### Projetos de Pesquisa em andamento
@@ -77,7 +77,7 @@ Para ver os detalhes dos projetos [clique aqui](/pesquisas/README.md){:target="_
 
 - 2011 - 1º Lugar - Prêmio Sílvio Romero de Monografias sobre Folclore e Cultura Popular, Centro Nacional de Folclore e Cultura Popular (CNFCP/Iphan).
 
-## [Principais Publicações](/cv/publicacoes.md){:target="_blank"}
+## [Principais Publicações](/publicacoes/)
 
 ## Currículos e redes acadêmicas
 

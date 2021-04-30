@@ -7,8 +7,6 @@ hide_description: true
 sitemap: false
 ---
 
-# Ferramentas Digitais
-
 ## **Repositório Digital das Humanidades - REDHBR**
 
 [**Acesse aqui a página do REDHBR!**](https://labhdufba.github.io/redhbr/){:target:"_blank"}

@@ -9,4 +9,4 @@ sitemap: false
 
 ## [Materiais de Apresentações, oficinas, minicursos, tutoriais](/materiais/presentations)
 
-## [Ferramentas digitais](/materiais/ferramentas) - *em breve*
+## [Ferramentas digitais](/materiais/ferramentas)

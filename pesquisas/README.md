@@ -7,8 +7,6 @@ hide_description: true
 sitemap: false
 ---
 
-# Projetos e Pesquisas
-
 ## Projetos de Pesquisa em andamento
 
 ### História Digital: acervos e ferramentas digitais para pesquisa e ensino
