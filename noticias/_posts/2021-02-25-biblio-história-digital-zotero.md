@@ -10,7 +10,7 @@ sitemap: false
 Lançamento da Biblioteca de referências bibliográficas **HISTÓRIA DIGITAL**
 {:.lead}
 
-[**Acesso a biblioteca e torne-se membro!**](tinyurl.com/yakk58xl){:target:"_blank"}
+[**Acesse a biblioteca e torne-se membro!**](tinyurl.com/yakk58xl){:target:"_blank"}
 
 A biblioteca pública de referências bibliográficas História Digital disponibiliza 227 referências bibliográficas. O projeto foi desenvolvido pela discente do curso de História do Instituto de Humanidades e Letras da Universidade da Integração Internacional da Lusofonia Afro-Brasileira (IHL/Unilab) **Ana Carolina Veloso** – bolsista Pibic/Fapesb, projeto *“História Digital: acervos e ferramentas digitais para pesquisa e ensino”* -, junto com a estudante do Bacharelado Interdisciplinar em Humanidades (IHL-Unilab) **Priscila Silveira** – bolsista Pibic/Unilab, projeto *“Pós-Abolição: sentidos, usos e produção acadêmica (2004-2019)”*. Ambas tiveram orientação do professor **Eric Brasil**, no âmbito do curso de História, em diálogo com o [Laboratório de Humanidades Digitais da UFBA, LABHDUFBA](labhd.ufba.br).
 

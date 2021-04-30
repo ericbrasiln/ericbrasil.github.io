@@ -48,7 +48,7 @@ Coordenador (2019-2020) e professor do curso de licenciatura em História e prof
 
 ## Projetos de Pesquisa
 
-Para ver os detalhes dos projetos [clique aqui](/pesquisas/README.md){:target="_blank"} - *em breve*
+Para ver os detalhes dos projetos [clique aqui](/pesquisas/README.md){:target="_blank"}
 {:.note}
 
 ### Projetos de Pesquisa em andamento
@@ -77,7 +77,7 @@ Para ver os detalhes dos projetos [clique aqui](/pesquisas/README.md){:target="_
 
 - 2011 - 1º Lugar - Prêmio Sílvio Romero de Monografias sobre Folclore e Cultura Popular, Centro Nacional de Folclore e Cultura Popular (CNFCP/Iphan).
 
-## [Principais Publicações](/cv/publicacoes.md){:target="_blank"} - *em breve*
+## [Principais Publicações](/cv/publicacoes.md){:target="_blank"}
 
 ## Currículos e redes acadêmicas
 

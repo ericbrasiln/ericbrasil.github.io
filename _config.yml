@@ -139,7 +139,7 @@ defaults:
     values:
       accent_color:    rgb(38,139,210)
       accent_image:
-        background:    rgb(20, 20, 20)
+        background:    rgb(17, 81, 85)
         overlay:       false
 
   # Don't include documents in assets in the sitemap
